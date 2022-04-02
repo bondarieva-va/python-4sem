@@ -1,5 +1,5 @@
 
-    Here you can find my laboratory works on the course "Network programming in information protection tasks".
+    Here you can find my projects on the course "Network programming in information protection tasks".
 ## TCP Socket
 ### Задание к лабораторной работе
 
