@@ -1,5 +1,6 @@
-# TCP Sockets
-***
+
+    Here you can find my laboratory works on the course "Network programming in information protection tasks".
+## TCP Socket
 ### Задание к лабораторной работе
 
     Реализовать чат(TCP протокол) без графического интерфейса, который позволит обмениваться сообщениями между клиентом и сервером.
